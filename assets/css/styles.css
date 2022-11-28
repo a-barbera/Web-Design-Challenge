@@ -1,0 +1,38 @@
+body {
+  background-color:cornsilk;
+  padding: 15px;
+}
+
+.navbar {
+  background-color: aliceblue;
+
+}
+
+.btn {
+  background-color:cornflowerblue;
+}
+
+.navbar-toggler {
+    background-color:cornflowerblue;
+    
+}
+
+.caption {
+  background-color: cornflowerblue;
+}
+
+@media (min-width: 576px) {
+  p{
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .navbar {
+    background-color:cornflowerblue;
+    border-width: 3px;
+  }
+
+
+}
+
